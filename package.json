@@ -1,0 +1,23 @@
+{
+  "name": "Map-tile-Download",
+  "version": "1.0.0",
+  "description": "**天地图瓦片下载工具**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean1024/Map-tile-Download.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jean1024/Map-tile-Download/issues"
+  },
+  "homepage": "https://github.com/Jean1024/Map-tile-Download#readme",
+  "dependencies": {
+    "download": "^6.2.5"
+  }
+}
